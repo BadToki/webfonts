@@ -60,7 +60,7 @@
 	font-family:'SF Pro KR';
 	font-style:normal;
 	font-weight:600;
-	src:local('SF Pro KR'), url("https://www.apple.com/wss/fonts/SF-Pro-KR/v2/SFProKRDisplay_semibold.woff2") format("woff2"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_semibold.woff") format("woff"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_semibold.ttf") format("truetype");
+	src:local('SF Pro KR'), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_semibold.woff2") format("woff2"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_semibold.woff") format("woff"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_semibold.ttf") format("truetype");
 
 }
 
