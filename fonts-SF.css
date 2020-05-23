@@ -1,0 +1,108 @@
+@font-face {
+	font-family:'SF Pro KR';
+	font-style:normal;
+	font-weight:100;
+	src:local('SF Pro KR'), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_ultralight.woff2") format("woff2"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_ultralight.woff") format("woff"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_ultralight.ttf") format("truetype");
+
+}
+
+@font-face {
+	font-family:'SF Pro KR 100';
+	src:url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_ultralight.eot");
+
+}
+
+@font-face {
+	font-family:'SF Pro KR';
+	font-style:normal;
+	font-weight:200;
+	src:local('SF Pro KR'), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_thin.woff2") format("woff2"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_thin.woff") format("woff"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_thin.ttf") format("truetype");
+
+}
+
+@font-face {
+	font-family:'SF Pro KR 200';
+	src:url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_thin.eot");
+
+}
+
+@font-face {
+	font-family:'SF Pro KR';
+	font-style:normal;
+	font-weight:300;
+	src:local('SF Pro KR'), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_light.woff2") format("woff2"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_light.woff") format("woff"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_light.ttf") format("truetype");
+
+}
+
+@font-face {
+	font-family:'SF Pro KR 300';
+	src:url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_light.eot");
+
+}
+
+@font-face {
+	font-family:'SF Pro KR';
+	font-style:normal;
+	font-weight:500;
+	src:local('SF Pro KR'), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_medium.woff2") format("woff2"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_medium.woff") format("woff"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_medium.ttf") format("truetype");
+
+}
+
+@font-face {
+	font-family:'SF Pro KR 500';
+	src:url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_medium.eot");
+
+}
+
+
+
+@font-face {
+	font-family:'SF Pro KR';
+	font-style:normal;
+	font-weight:600;
+	src:local('SF Pro KR'), url("https://www.apple.com/wss/fonts/SF-Pro-KR/v2/SFProKRDisplay_semibold.woff2") format("woff2"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_semibold.woff") format("woff"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_semibold.ttf") format("truetype");
+
+}
+
+@font-face {
+	font-family:'SF Pro KR 600';
+	src:url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_semibold.eot");
+
+}
+
+@font-face {
+	font-family:'SF Pro KR';
+	font-style:normal;
+	font-weight:700;
+	src:local('SF Pro KR'), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_bold.woff2") format("woff2"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_bold.woff") format("woff"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_bold.ttf") format("truetype");
+
+}
+
+@font-face {
+	font-family:'SF Pro KR 700';
+	src:url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_bold.eot");
+
+}
+
+@font-face {
+	font-family:'SF Pro KR';
+	font-style:normal;
+	font-weight:800;
+	src:local('SF Pro KR'), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_black.woff2") format("woff2"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_black.woff") format("woff"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_black.ttf") format("truetype");
+
+}
+
+@font-face {
+	font-family:'SF Pro KR 800';
+	src:url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_black.eot");
+
+}
+
+@font-face {
+	font-family:'SF Pro KR';
+	font-style:normal;
+	font-weight:400;
+	src:url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_regular.eot");
+	src:local('SF Pro KR'), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_regular.woff2") format("woff2"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_regular.woff") format("woff"), url("https://graphist.github.io/webfonts/SF-Fonts/SFProKRDisplay_regular.ttf") format("truetype");
+
+}
